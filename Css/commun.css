@@ -2,7 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('images/voiture-de-luxe-Paris');
+    background-image: url('Images/voiture-de-luxe-Paris.jpg');
+}
+.banner{
+    background-color: #b91b1b;
+    background-image: url('Images/banner.png');
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 5px;
 }
 
 header {
@@ -14,6 +21,8 @@ header {
 
 nav ul {
     list-style-type: none;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 0;
     padding: 0;
     text-align: center;
